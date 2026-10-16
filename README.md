@@ -22,16 +22,13 @@ Here are some ideas to get you started:
 
 ## Things I've built
 
-- [snipper](https://github.com/yajunjiao/snipper_release) — 截图 / Snipping 工具的 Release 发布仓库。 [Stars](https://img.shields.io/github/stars/yajunjiao/snipper_release?style=flat\&logo=github\&label=Stars\&labelColor=24292f\&color=yellow) [Downloads](https://img.shields.io/github/downloads/yajunjiao/snipper_release/total?style=flat\&logo=github\&label=Downloads\&labelColor=24292f\&color=green)
-- [LingLu](https://github.com/yajunjiao/LingLu_release) — 一个录制视频的软件，目前支持 Windows 端。 [Stars](https://img.shields.io/github/stars/yajunjiao/LingLu_release?style=flat\&logo=github\&label=Stars\&labelColor=24292f\&color=yellow) [Downloads](https://img.shields.io/github/downloads/yajunjiao/LingLu_release/total?style=flat\&logo=github\&label=Downloads\&labelColor=24292f\&color=green)
-- [weread-planner](https://github.com/yajunjiao/weread-planner) — 微信读书管理与规划。 [Stars](https://img.shields.io/github/stars/yajunjiao/weread-planner?style=flat\&logo=github\&label=Stars\&labelColor=24292f\&color=yellow)
-- [ai\_project](https://github.com/yajunjiao/ai_project) — AI 实验项目（C++）。 [Stars](https://img.shields.io/github/stars/yajunjiao/ai_project?style=flat\&logo=github\&label=Stars\&labelColor=24292f\&color=yellow)
+- [snipper](https://github.com/yajunjiao/snipper_release) — 截图 / Snipping 工具的 Release 发布仓库。
+- [LingLu](https://github.com/yajunjiao/LingLu_release) — 一个录制视频的软件，目前支持 Windows 端。
+- [weread-planner](https://github.com/yajunjiao/weread-planner) — 微信读书管理与规划。 
+- [ai\_project](https://github.com/yajunjiao/ai_project) — AI 实验项目（C++）。 
 - [AI-HotProject](https://github.com/yajunjiao/AI-HotProject) — AI 热点项目追踪（Python）。
 - [UE5\_Doc](https://github.com/yajunjiao/UE5_Doc) — Unreal Engine 5 学习与文档笔记。
-
 
 ## Get in touch
 
 - Email: yajunjiao@126.com
-
-
