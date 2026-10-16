@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 - [ai\_project](https://github.com/yajunjiao/ai_project) — AI 实验项目（C++）。 [Stars](https://img.shields.io/github/stars/yajunjiao/ai_project?style=flat\&logo=github\&label=Stars\&labelColor=24292f\&color=yellow)
 - [AI-HotProject](https://github.com/yajunjiao/AI-HotProject) — AI 热点项目追踪（Python）。
 - [UE5\_Doc](https://github.com/yajunjiao/UE5_Doc) — Unreal Engine 5 学习与文档笔记。
-- [ai-cli-kickstarter](https://github.com/yajunjiao/ai-cli-kickstarter) — 给完全不懂计算机的人安装第一个 AI CLI，之后由 AI 接管后续指导。
-- [KubePay](https://github.com/yajunjiao/spring-microservices-kubernetes-demo) — 基于 Spring Boot 3 & Cloud 的金融微服务演示项目，可部署于 Kubernetes。
+
 
 ## Get in touch
 
