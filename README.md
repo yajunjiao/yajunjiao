@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Things I've built
 
 - [snipper](https://github.com/yajunjiao/snipper_release) — 截图 / Snipping 工具的 Release 发布仓库。
-- [LingLu](https://github.com/yajunjiao/LingLu_release) — 一个录制视频的软件，目前支持 Windows 端。
+- [LingLu_release](https://github.com/yajunjiao/LingLu_release) — 一个录制视频的软件，目前支持 Windows 端。
 - [weread-planner](https://github.com/yajunjiao/weread-planner) — 微信读书管理与规划。 
 - [ai\_project](https://github.com/yajunjiao/ai_project) — AI 实验项目（C++）。 
 - [AI-HotProject](https://github.com/yajunjiao/AI-HotProject) — AI 热点项目追踪（Python）。
